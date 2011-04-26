@@ -7,5 +7,10 @@ showcasting a minimal set of features:
   * images
   * quotation
 - archive
-- an normal, "static" page
+  * pagination
+  * archive by month and year
+- tags/categories
+- a normal, "static" page
+- reusal of common parts
+
 
