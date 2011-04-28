@@ -12,9 +12,7 @@ Previous posts:
 {% for post in site.posts offset:1 limit:5 %}
 	<p>{{ post.date | date: "%Y-%m-%d" }} - <a href="{{ post.url }}">{{ post.title }}</a> 
 	{% if post.abstract %}
-	: <i>
-	{{ post.abstract }}
-	</i>
+	: <i> {{ post.abstract }} </i>
 	{% endif %}
 	</p>
 {% endfor %}
