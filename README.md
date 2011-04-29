@@ -3,14 +3,11 @@ Comparison of [jekyll](http://github.com/mojombo/jekyll) and [hyde](http://githu
 Will attempt to show a basic implementation of a blog/website,
 showcasting a minimal set of features:
 - blog posts
-  * normal text
-  * images
-  * quotation
 - archive
-  * pagination
+  * pagination [?]
   * archive by month and year
 - tags/categories
-- a normal, "static" page
-- reusal of common parts
+- a normal, "static" page [x]
+- reusal of common parts [x]
 
 
