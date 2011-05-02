@@ -2,7 +2,7 @@ Comparison of [jekyll](http://github.com/mojombo/jekyll) and [hyde](http://githu
 
 Will attempt to show a basic implementation of a blog/website,
 showcasting a minimal set of features:
-- blog posts
+- blog posts [x]
 - archive
   * pagination [?]
   * archive by month and year
